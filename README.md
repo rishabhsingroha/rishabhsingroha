@@ -1,6 +1,6 @@
 # About Me:
 
-🌱 I’m currently learning Rust <br>👨‍💻 All of my projects are available at [github.com/rishabhsingroha](https://github.com/rishabhsingroha)<br>📝 I sometimes write blogs on [dev.to]()<br>💬 Ask me about javascript, Typescript, NextJS, React, TailwindCSS, angular,<br>📫 How to reach me rishabhsingroha@gmail.com <br>📄 Know about my experiences[interships] (https://www.linkedin.com/in/rishabh-singroha/)
+🌱 I’m currently learning Rust <br>👨‍💻 All of my projects are available at [github.com/rishabhsingroha](https://github.com/rishabhsingroha)<br>📝 I sometimes write blogs on [dev.to]()<br>💬 Ask me about javascript, Typescript, NextJS, React, TailwindCSS, angular,<br>📫 How to reach me rishabhsingroha@gmail.com <br>📄 Know about my experiences (https://www.linkedin.com/in/rishabh-singroha/)
 
 ## 🌐 Socials:
 
